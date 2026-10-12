@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # PlaceTrack 🎓 
 ### Smart Campus Placement Management Platform
+=======
+# GEN-AI-based_Placement-Management-System
+# PlaceTrack 🎓 - Smart Campus Placement Management Platform
+>>>>>>> 7134463461fc0bb22a7ab9399d4231d257aada83
 
 PlaceTrack is a production-grade, highly secure, fully responsive monorepo application designed for colleges and universities to manage the complete campus recruitment drive lifecycle. Featuring real-time signaling, AI integrations, dynamic document verification, and in-platform Google-Meet-style video interview rooms.
 
@@ -162,4 +167,8 @@ All API requests contain header `Authorization: Bearer <accessToken>` once authe
 For full deployment steps, configurations, and environment checklists, please refer to the detailed [deployment_guide.md](file:///c:/Users/VAMSI%20VALLURI/Downloads/pod.ai/deployment_guide.md) in the project directory.
 
 * **Backend**: Hosted on **Render** (Root directory: `backend`).
+<<<<<<< HEAD
 * **Frontend**: Hosted on **Vercel** (Root directory: `frontend`).
+=======
+* **Frontend**: Hosted on **Vercel** (Root directory: `frontend`).
+>>>>>>> 7134463461fc0bb22a7ab9399d4231d257aada83
